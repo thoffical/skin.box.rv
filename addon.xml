@@ -1,7 +1,7 @@
 <addon id="skin.box.rv" name="BOX Revived" provider-name="DjCisco, Thirdy" version="6.4.3">
 	<requires>
 		<import addon="xbmc.gui" version="5.17.0" />
-		<import addon="script.favourites" version="8.1.3" />
+		<import addon="script.favourites.re" version="8.1.4" />
 		<import addon="service.skin.widgets" version="0.0.37" />
 	</requires>
 	<extension debugging="false" effectslowdown="1.00" point="xbmc.gui.skin">
